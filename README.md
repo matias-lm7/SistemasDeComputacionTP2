@@ -1,4 +1,4 @@
-# 📌 TP #1 - Stack Frame (Índice GINI)
+# 📌 TP #2 - Stack Frame (Índice GINI)
 
 ## 🧾 Descripción
 
